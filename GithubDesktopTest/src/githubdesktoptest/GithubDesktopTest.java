@@ -16,6 +16,7 @@ public class GithubDesktopTest {
      */
     public static void main(String[] args) {
         System.out.println("print");
+        System.out.println("another print");
     }
     
 }
